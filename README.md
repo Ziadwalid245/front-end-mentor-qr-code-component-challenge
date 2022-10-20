@@ -18,7 +18,7 @@
 
 I would like to learn more about adding functionality to websites using javascript and eventually , as well as eventually coming around to learning more about backend (using SQL etc.)
 
-I also would like to learn how to embed chatbots or generally NLP tech in future sites .(im working on a little chatbot rn and would want to find some use for it in muy life besides putting it on github )
+I also would like to learn how to embed chatbots or generally NLP tech in future sites .(im working on a little chatbot rn and would want to find some use for it in muy life besides putting it on github to bloat my portifolio unnecessarily.)
 
 
 
